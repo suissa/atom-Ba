@@ -1,0 +1,30 @@
+{
+  "name": "atom-fr",
+  "version": "1.0.0",
+  "description": "Propriedades do átomo de Frâncio",
+  "main": "atom-ra.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suissa/atom-Fr.git"
+  },
+  "keywords": [
+    "atom",
+    "átomo",
+    "fr",
+    "frâncio",
+    "química",
+    "chemistry",
+    "webschool"
+  ],
+  "author": "Suissa",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/suissa/atom-Fr/issues"
+  },
+  "homepage": "https://github.com/suissa/atom-Fr#readme"
+}
